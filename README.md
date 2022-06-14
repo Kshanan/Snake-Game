@@ -1,5 +1,5 @@
 # Snake-Game
-Fun Snake game built with python turtle module 
+Fun Snake game built with python turtle module .
 features :
 - Captures Highscore
 - can move easily through walls .
